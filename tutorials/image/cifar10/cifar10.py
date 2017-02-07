@@ -13,6 +13,8 @@
 # limitations under the License.
 # ==============================================================================
 
+#team USF
+
 """Builds the CIFAR-10 network.
 
 Summary of available functions:
